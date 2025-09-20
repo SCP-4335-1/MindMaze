@@ -1,5 +1,5 @@
 # MindMaze
-- [TODO List](./TODO.md)
+(./TODO.md)
 
 <p align="center">
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
