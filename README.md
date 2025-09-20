@@ -1,4 +1,6 @@
-# MindMaze
+<p align="center">
+  <img src="MindMaze-header-banner.png" alt="MindMaze Logo" width="800"/>
+</p>
 
 <p align="center">
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
