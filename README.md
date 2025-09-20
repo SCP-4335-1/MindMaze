@@ -4,9 +4,6 @@
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SCP-4335-1/MindMaze)
-![GitHub downloads](https://img.shields.io/github/downloads/SCP-4335-1/MindMaze/total)
-
 ---
 
 ## 📖 Beschreibung
