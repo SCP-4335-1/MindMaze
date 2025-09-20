@@ -1,4 +1,4 @@
-# MindMaze
+# <p style="font-size: 125px; text-align: center">MindMaze
 
 <p align="center">
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
