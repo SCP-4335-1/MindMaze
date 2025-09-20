@@ -1,4 +1,4 @@
-# <p style="color: #FF0000; font-size: 125px; text-align: center">MindMaze</p>
+# MindMaze
 
 <p align="center">
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
@@ -6,13 +6,13 @@
 
 ---
 
-## 📖 <span style="color: #1E90FF;">Beschreibung</span>
+## 📖 Beschreibung
 MindMaze ist ein Schulprojekt-Spiel, das die 3D-Map der Schule als Spielwelt nutzt.  
 Spieler können die Schule erkunden und verschiedene Aufgaben und Herausforderungen meistern.
 
 ---
 
-## ⚙️ <span style="color: #800080;">Technologien</span>
+## ⚙️ Technologien
 - HTML  
 - CSS  
 - JavaScript
@@ -20,7 +20,7 @@ Spieler können die Schule erkunden und verschiedene Aufgaben und Herausforderun
 
 ---
 
-## 🚀 <span style="color: #2E8B57;">Features</span>
+## 🚀 Features
 - Erkunde die 3D-Schulwelt  
 - Verschiedene Aufgaben und Mini-Puzzles  
 - Menü- und GUI-System  
@@ -28,9 +28,9 @@ Spieler können die Schule erkunden und verschiedene Aufgaben und Herausforderun
 
 ---
 
-## 💻 <span style="color: #FFA500;">Installation & Spiel testen</span>
+## 💻 Installation & Spiel testen
 
-### <span style="color: #FF8C00;">NPM Server</span>
+### NPM Server
 ```bash
 git clone https://github.com/SCP-4335-1/MindMaze.git
 cd MindMaze
@@ -38,7 +38,7 @@ npm install
 npm start
 ```
 
-### <span style="color: #FF8C00;">NODE Server</span>
+### NODE Server
 ```bash
 git clone https://github.com/SCP-4335-1/MindMaze.git
 cd MindMaze
@@ -48,7 +48,7 @@ node server.js
 
 ---
 
-## 💻 <span style="color: #008080;">GitHub Sync</span>
+## 💻 GitHub Sync
 
 ```bash
 git add .
@@ -58,7 +58,7 @@ git push origin main
 
 ---
 
-## ✅ <span style="color: #FF4500;">TODO</span>
+## ✅ TODO
 
 - [ ] Add Settings Sync
 
@@ -72,20 +72,20 @@ git push origin main
 
 ---
 
-## 📝 <span style="color: #808080;">Lizenz</span>
+## 📝 Lizenz
 
 Keine Lizenz – alle Rechte vorbehalten.
 
 --- 
 
-## 👥 <span style="color: #00008B;">Autoren</span>
+## 👥 Autoren
 
 SCP-4335-1 und Andere
 
-## 🎨 <span style="color: #C71585;">Screenshots</span>
+## 🎨 Screenshots
 
-### <span style="color: #00CED1;">Logo</span>
+### Logo
 <p align="center"> <img src="MindMaze-Logo.png", alt="MindMaze Logo" width="200"/> </p>
 
- ### <span style="color: #00CED1;">Background</span>
+ ### Background
 <p align="center"> <img src="MindMaze-Background.jpg", alt="MindMaze Background" width="600"/> </p>
