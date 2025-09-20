@@ -4,6 +4,10 @@
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
 </p>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/SCP-4335-1/MindMaze)
+![GitHub Repo stars](https://img.shields.io/github/stars/SCP-4335-1/MindMaze)
+![GitHub downloads](https://img.shields.io/github/downloads/SCP-4335-1/MindMaze/total)
+
 ---
 
 ## 📖 Beschreibung
@@ -25,36 +29,6 @@ Spieler können die Schule erkunden und verschiedene Aufgaben und Herausforderun
 - Verschiedene Aufgaben und Mini-Puzzles  
 - Menü- und GUI-System  
 - Einfach erweiterbar  
-
----
-
-## 💻 Installation & Spiel testen
-
-### NPM Server
-```bash
-git clone https://github.com/SCP-4335-1/MindMaze.git
-cd MindMaze
-npm install
-npm start
-```
-
-### NODE Server
-```bash
-git clone https://github.com/SCP-4335-1/MindMaze.git
-cd MindMaze
-npm install
-node server.js
-```
-
----
-
-## 💻 GitHub Sync
-
-```bash
-git add .
-git commit -m "Beschreibe deine Änderung"
-git push origin main
-```
 
 ---
 
