@@ -5,7 +5,6 @@
 </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SCP-4335-1/MindMaze)
-![GitHub Repo stars](https://img.shields.io/github/stars/SCP-4335-1/MindMaze)
 ![GitHub downloads](https://img.shields.io/github/downloads/SCP-4335-1/MindMaze/total)
 
 ---
