@@ -1,5 +1,4 @@
 # MindMaze
-(./TODO.md)
 
 <p align="center">
   <img src="MindMaze-Logo.png" alt="MindMaze Logo" width="300"/>
@@ -55,3 +54,7 @@ cd MindMaze
 npm start
 node server.js
 ```
+## TODO
+- [ ] Add Settings Sync
+- [ ] Add Game-Map
+- [ ] Add Raycaster
