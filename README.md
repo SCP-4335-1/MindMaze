@@ -52,7 +52,7 @@ Keine Lizenz – alle Rechte vorbehalten.
 
 ## 👥 Autoren
 
-SCP-4335-1, Sherma, BananaJoe und Noch 2 andera (nicht echte Namen)
+SCP-4335-1, Sherma, BananaJoe, Blaubarschbube und Meerjungfraumann (nicht echte Namen/Fake Namen)
 
 ## 🎨 Screenshots
 
