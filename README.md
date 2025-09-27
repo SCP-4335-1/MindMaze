@@ -50,6 +50,12 @@ Keine Lizenz – alle Rechte vorbehalten.
 
 --- 
 
+## Sozial
+
+WhatsApp: [MindMaze](https://whatsapp.com/channel/0029VbAzP4WHAdNOFoju6V0R)
+
+--- 
+
 ## 👥 Autoren
 
 SCP-4335-1, Sherma, BananaJoe, Blaubarschbube und Meerjungfraumann (nicht echte Namen/Fake Namen)
