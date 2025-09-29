@@ -52,7 +52,7 @@ Keine Lizenz – alle Rechte vorbehalten.
 
 ## Sozial
 
-Email: [MindMaze](MindMazeService@proton.me)
+Email: MindMazeService@proton.me
 
 --- 
 
