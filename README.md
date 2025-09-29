@@ -52,7 +52,7 @@ Keine Lizenz – alle Rechte vorbehalten.
 
 ## Sozial
 
-WhatsApp: [MindMaze](https://whatsapp.com/channel/0029VbAzP4WHAdNOFoju6V0R)
+Email: [MindMaze](MindMazeService@proton.me)
 
 --- 
 
