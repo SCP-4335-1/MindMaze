@@ -1,1 +1,1 @@
-# MIndMaze
+# MindMaze
